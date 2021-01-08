@@ -1,0 +1,33 @@
+/*colors and fonts*/
+
+body{
+	background-color: lightgrey;
+	color: black;
+	font-family: helvetics: 
+	font-size: 37px;
+}
+
+h1{
+	color: white;
+	font-family: helvetics
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+h2{
+	color: black;
+	font-family: courier
+	font-weight: lighter;
+	letter-spacing: 10px;
+	font-size: 24px;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+
+a:hover {
+color: black
+}
